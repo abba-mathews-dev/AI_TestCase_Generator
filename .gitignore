@@ -6,6 +6,6 @@ __pycache__/
 build/
 dist/
 *.egg-info/
-README-Private.md
+README-Private.md 
 .claude/
 Documents/
